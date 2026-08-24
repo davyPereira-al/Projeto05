@@ -8,7 +8,7 @@
   <body>
     <hgroup>
     <h1>Currículos do grupo.</h1>
-    <p><a href="curriculoDavy.html">Currículo Davy</a></p>
-    <p><a href="curriculoCristhian.html">Currículo Cristhian</a></p>
+    <p><a href="curriculoDavy.html">Currículo Davy.</a></p>
+    <p><a href="curriculoCristhian.html">Currículo Cristhian.</a></p>
   </body>
   </html>
