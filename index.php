@@ -8,5 +8,6 @@
   <body>
     <hgroup>
     <h1>Currículos do grupo.</h1>
+    <p><a href="curriculoDavy.html">Currículo Davy</a></p>
   </body>
   </html>
