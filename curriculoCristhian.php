@@ -59,6 +59,12 @@ include "cabecalho.php";
     <p>Junho de 2025 / Atual</p>
     <p>Atividades: Organização de estoque, expedição de produtos, atendimento ao cliente e trabalho em equipe.</p>
 
+ <footer>
+    <?php
+        include "rodape.php";  
+     ?>
+    </footer>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>
 </html>

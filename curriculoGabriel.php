@@ -10,8 +10,8 @@
 <body>
 
     <?php
-include "cabecalho.php";
-?>
+        include "cabecalho.php";
+    ?>
 
     <h1>GABRIEL DE SOUZA MACHADO</h1>
     <p>17 anos, solteiro</p>
@@ -66,6 +66,12 @@ include "cabecalho.php";
     <ul>
         <li>Participação em ação social</li>
     </ul>
+    
+     <footer>
+    <?php
+        include "rodape.php";  
+     ?>
+    </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </body>
